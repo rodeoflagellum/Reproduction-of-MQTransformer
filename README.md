@@ -1,10 +1,10 @@
 # Reproduction of MQTransformer
 
-Cite the original paper: 
+Cite the original paper, which can be found at <https://www.amazon.science/publications/mqtransformer-multi-horizon-forecasts-with-context-dependent-attention-and-optimal-bregman-volatility>
 
 > Chen, K. C., Dicker, L., Eisenach, C., & Madeka, D. (2022). MQTransformer: Multi-Horizon Forecasts with Context Dependent Attention and Optimal Bregman Volatility.
 
-BibTex for the original paper
+Here is the BibTex for the original paper.
 
 > @Inproceedings{Chen2022,
  author = {Kevin C. Chen and Lee Dicker and Carson Eisenach and Dhruv Madeka},
@@ -14,7 +14,9 @@ BibTex for the original paper
  booktitle = {KDD 2022 Workshop on Mining and Learning from Time Series – Deep Forecasting: Models, Interpretability, and Applications},
 }
 
-Cite the reproduction of this paper:
+Cite this reproduction: TODO
+
+Here is the BibTex for this reproduction: TODO
 
 ## Repository Structure 
 
