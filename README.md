@@ -7,4 +7,6 @@ Cite the original paper:
 
 ### Resources 
 
-- ReScience C template: 
+- ReScience C template:
+
+x
