@@ -39,6 +39,9 @@ Here is the BibTex for this reproduction: TODO
 - Reproducibility Resources: <https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge-Readings.pdf>
 - ML Reproducibility Challenge 2021: <https://paperswithcode.com/rc2021>
 - Papers with Code: <https://paperswithcode.com/>
+- Code that helped me: 
+    - <https://keras.io/examples/timeseries/timeseries_traffic_forecasting/>
+    - <https://keras.io/examples/timeseries/timeseries_classification_transformer/>
 - Related code bases: <https://paperswithcode.com/search?q_meta=&q_type=&q=transformer+time+series>
     - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting: <https://paperswithcode.com/paper/temporal-fusion-transformers-for> and <https://github.com/google-research/google-research/tree/master/tft> 
     - PyTorch forecasting: <https://github.com/jdb78/pytorch-forecasting>
