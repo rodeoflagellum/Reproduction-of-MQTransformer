@@ -30,7 +30,12 @@ Here is the BibTex for this reproduction: TODO
 - ReScience C template: <https://github.com/rescience/template>
 - ML Reproducibility Tools and Best Practices <https://www.cs.mcgill.ca/~ksinha4/practices_for_reproducibility/>
 - Tips for Publishing Research Code: <https://github.com/paperswithcode/releasing-research-code>
+- Learn To Reproduce Papers: Beginner’s Guide <https://towardsdatascience.com/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0>
+- Common Problems When Reproducing A Machine Learning Paper <https://derekchia.com/common-problems-when-reproducing-a-machine-learning-paper/>
 - The Machine Learning Reproducibility Checklist: <https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf>
+- Learn To Reproduce Papers: Beginner’s Guide: <https://towardsdatascience.com/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0>
+- Quantifying Independently Reproducible Machine Learning: <https://thegradient.pub/independently-reproducible-machine-learning/>
+- How to Solve Reproducibility in ML: <https://neptune.ai/blog/how-to-solve-reproducibility-in-ml>
 - Reproducibility Resources: <https://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge-Readings.pdf>
 - ML Reproducibility Challenge 2021: <https://paperswithcode.com/rc2021>
 - Papers with Code: <https://paperswithcode.com/>
