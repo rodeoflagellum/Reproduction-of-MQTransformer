@@ -4,6 +4,8 @@ Cite the original paper:
 
 > Chen, K. C., Dicker, L., Eisenach, C., & Madeka, D. (2022). MQTransformer: Multi-Horizon Forecasts with Context Dependent Attention and Optimal Bregman Volatility.
 
+BibTex for the original paper
+
 > @Inproceedings{Chen2022,
  author = {Kevin C. Chen and Lee Dicker and Carson Eisenach and Dhruv Madeka},
  title = {MQTransformer: Multi-horizon forecasts with context dependent attention and optimal bregman volatility},
@@ -34,3 +36,7 @@ Cite the reproduction of this paper:
     - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting: <https://paperswithcode.com/paper/temporal-fusion-transformers-for> and <https://github.com/google-research/google-research/tree/master/tft> 
     - PyTorch forecasting: <https://github.com/jdb78/pytorch-forecasting>
     - Are Transformers Effective for Time Series Forecasting?: <https://paperswithcode.com/paper/are-transformers-effective-for-time-series> and <https://github.com/cure-lab/DLinear>
+    - TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data <https://paperswithcode.com/paper/tranad-deep-transformer-networks-for-anomaly> and <https://github.com/imperial-qore/tranad>
+    - NAST: Non-Autoregressive Spatial-Temporal Transformer for Time Series Forecasting <https://paperswithcode.com/paper/nast-non-autoregressive-spatial-temporal> and <https://github.com/Flawless1202/Non-AR-Spatial-Temporal-Transformer>
+    - Transformers in Time Series: A Survey <https://paperswithcode.com/paper/transformers-in-time-series-a-survey> and <https://github.com/qingsongedu/time-series-transformers-review>
+    - (*) Time-series Transformer Generative Adversarial Networks <https://paperswithcode.com/paper/time-series-transformer-generative> and <https://github.com/jsyoon0823/TimeGAN>
